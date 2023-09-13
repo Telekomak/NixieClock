@@ -346,7 +346,7 @@
   )
   (symbol "PCF8583PN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -5.3147 13.0452 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Value" "PCF8583PN" (at -3.7136 -20.5013 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)

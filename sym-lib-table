@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "NIxieClock")(type "KiCad")(uri "${KIPRJMOD}/NIxieClock.kicad_sym")(options "")(descr ""))
+  (lib (name "NixieClock")(type "KiCad")(uri "${KIPRJMOD}/NixieClock.kicad_sym")(options "")(descr ""))
 )

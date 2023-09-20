@@ -1,4 +1,4 @@
-20903822534241330
+20907212975759713
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61236,6 +61236,13 @@ net tie
 4
 4
 NixieClock
+Breaker_Holder_5x20
+
+
+0
+0
+0
+NixieClock
 SOIC127P1032X265-8N
 
 
@@ -61249,6 +61256,13 @@ HEF4094BT
 0
 16
 16
+NixieClock
+XTAL_AB38T-32.768KHZ
+
+
+0
+2
+2
 NixieClock
 Z570M
 This is the footprint suitable for the following nixie tubes: <br>* Z570M <br>* Z5700M <br>* Z573M <br>* Z5730M <br>* Z574M <br>* Z5740M <br><br>Tube diameter: 19mm<br>Height from PCB: 47.6mm

@@ -1,4 +1,4 @@
-20907212975759713
+20908908369173892
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61237,6 +61237,13 @@ net tie
 4
 NixieClock
 Breaker_Holder_5x20
+
+
+0
+3
+2
+NixieClock
+CR20_holder
 
 
 0

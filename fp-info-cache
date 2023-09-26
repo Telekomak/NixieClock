@@ -1,4 +1,4 @@
-20908908369173892
+20910604166856577
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61247,8 +61247,8 @@ CR20_holder
 
 
 0
-0
-0
+2
+2
 NixieClock
 SOIC127P1032X265-8N
 
@@ -61263,6 +61263,13 @@ HEF4094BT
 0
 16
 16
+NixieClock
+SW_TS1107GS
+
+
+0
+0
+0
 NixieClock
 XTAL_AB38T-32.768KHZ
 
